@@ -13,7 +13,6 @@ html {
 }
 
 header {
-  background-color:
   padding-top: 1em;
 }
 
@@ -27,4 +26,51 @@ header {
 img {
   width: 100%;
   padding: 0;
+}
+
+.sevenstuff {
+  background: url("../images/panorama.jpg") center center / cover no-repeat;
+  clear: both;
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+  font-size: 28px;
+}
+
+h2 {
+  text-align: center;
+  padding: .5em;
+  margin: 0;
+  clear: both;
+  font-size: 24px;
+}
+
+h3 {
+  margin: 0;
+  clear: both;
+  padding: .25em .25em .25em 1em;
+  font-size: 18px;
+}
+
+nav {
+  margin: 0;
+  background-color:
+  color: black;
+  font-size: 12px;
+}
+
+nav li {
+  display: block;
+  width: 25%;
+  float: left;
+  list-style-type: none;
+}
+
+.navk {
+  margin: 0;
+  background-color: lightblue;
+  color: black;
+  font-size: 12px;
 }
