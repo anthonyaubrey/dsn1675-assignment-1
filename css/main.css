@@ -5,3 +5,8 @@
 +*, *::before, *::after {
 +  box sizing: inherit;
 +}
+
+.logo {
+  float: left;
+  width: 10%;
+}
