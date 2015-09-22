@@ -17,6 +17,10 @@ html {
   box-sizing: inherit;
 }
 
+body {
+  margin: 0;
+}
+
 .logo {
   float: left;
   width: 10%;
@@ -115,3 +119,7 @@ ol {
   font-size: 14pt;
 
 }
+
+@media only screen and (min-width: 30em) {
+  
+  }
