@@ -54,6 +54,7 @@ h3 {
   clear: both;
   padding: .25em .25em .25em 1em;
   font-size: 18px;
+  text-align: center;
 }
 
 nav {
@@ -78,26 +79,9 @@ nav li {
   font-size: 12px;
 }
 
-.left {
-  float:left;
+.listorder {
+  list-style-type: none;
   display: inline-block;
-  position: relative;
-  font-size: 14px;
-  padding: 0em 0.25em 0em 1em;
-}
-
-.middle {
-  float:middle;
-  display: inline-block;
-  position: relative;
-  font-size: 14px;
-  padding: 0em 0.25em 0em 1em;
-}
-
-.right {
-  float:right;
-  display: inline-block;
-  position: relative;
   font-size: 14px;
   padding: 0em 0.25em 0em 1em;
 }
