@@ -144,6 +144,7 @@ ol {
     float: left;
     margin-left: 1em;
     margin-top: 1em;
+    clear: both;
   }
   h3 {
     float:left;
