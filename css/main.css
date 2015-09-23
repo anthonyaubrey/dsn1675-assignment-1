@@ -142,10 +142,30 @@ ol {
   }
   .1 {
     float: left;
-    display: inline-block;
+    margin-left: 1em;
+    margin-top: 1em;
   }
   h3 {
     float:left;
+    margin-left: 1em;
+  }
+  .2 {
+
+  }
+  .3 {
+    float: left;
+  }
+  .4 {
+    float: left;
+  }
+  .5 {
+    float: left;
+  }
+  .6 {
+    float: left;
+  }
+  .7 {
+    float: left;
   }
 }
 
