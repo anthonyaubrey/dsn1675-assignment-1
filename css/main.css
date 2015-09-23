@@ -27,7 +27,6 @@ body {
 }
 
 header {
-  background-color: red;
   padding-top: 1em;
 }
 
@@ -66,7 +65,6 @@ h2 {
 
 h3 {
   margin: 0;
-  clear: both;
   padding: .25em .25em .25em 1em;
   font-size: 18px;
   text-align: center;
@@ -136,37 +134,53 @@ ol {
     margin-left: 1em;
     margin-right: 1em;
     margin-bottom: 1em;
-    float: none;
+    float: right;
   }
   .listorder {
-
+    margin-top: 2em;
+    font-size: 120%;
   }
-  .1 {
+  .giza {
+    clear: both;
+    margin-top: 2em;
+    vertical-align: middle;
+    text-align: center;
 
-    margin-left: 1em;
-    margin-top: 1em;
   }
   h3 {
-
-    margin-left: 1em;
+    font-size: 130%;
   }
-  .2 {
-
+  .baby{
+    clear: both;
+    margin-top: 2em;
+    vertical-align: middle;
+    text-align: center;
   }
-  .3 {
-
+  .artemis{
+    clear: both;
+    vertical-align: middle;
+    text-align: center;
+    margin-top: 2em;
   }
-  .4 {
-
+  .oly{
+    clear: both;
+    vertical-align: middle;
+    text-align: center;
   }
-  .5 {
-
+  .hali{
+    clear: both;
+    vertical-align: middle;
+    text-align: center;
   }
-  .6 {
-
+  .rhodes{
+    clear: both;
+    vertical-align: middle;
+    text-align: center;
   }
-  .7 {
-
+  .alex{
+    clear: both;
+    vertical-align: middle;
+    text-align: center;
   }
 }
 
